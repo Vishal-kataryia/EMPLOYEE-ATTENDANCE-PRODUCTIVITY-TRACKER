@@ -31,5 +31,5 @@ Star schema: one Attendance fact table with Employee, Date and Threshold tables,
 ## Notes
 Educational project. The data is a sample of employee-days, so absence counts are not a full register. The report is for monitoring only, not for automated HR or disciplinary decisions.
 ## Snapshort link:
-
+https://github.com/Vishal-kataryia/EMPLOYEE-ATTENDANCE-PRODUCTIVITY-TRACKER/blob/main/Executive%20overview.png
 Author: Vishal, ABES Engineering College, Ghaziabad
